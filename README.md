@@ -50,7 +50,7 @@ In addition to the README you're `directly to used and edit file` right now, thi
 - [stylesheets/README.md](stylesheets/README.md)
 - [tests/README.md](tests/README.md)
 
-## License
+## License 
 
 The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
 
