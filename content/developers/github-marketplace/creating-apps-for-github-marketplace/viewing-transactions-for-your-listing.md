@@ -47,4 +47,4 @@ To access {% data variables.product.prodname_marketplace %} transactions:
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. Click the **Transactions** tab.
 7. Optionally, select a different time period by clicking the Period dropdown in the upper-right corner of the Transactions page.
-![Marketplace time period](/assets/images/marketplace/marketplace_insights_time_period.png)
+[Marketplace time period](/assets/images/marketplace/marketplace_insights_time_period.png)
